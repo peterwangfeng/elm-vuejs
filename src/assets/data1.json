@@ -1,0 +1,1771 @@
+[
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 22657025,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"40": {"1": 8, "0": 0}, "25": {"1": 2, "0": 0}, "50": {"1": 10, "0": 0}, "30": {"1": 6, "0": 0}}",
+        description: "满25减2，满30减6，满40减8，满50减10",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 22871712,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满25减2，满30减6，满40减8，满50减10",
+        type: 102
+      },
+      {
+        description: "全城八折，一路热送",
+        icon_color: "f07373",
+        icon_name: "折",
+        id: 19560302,
+        name: "全城八折，一路热送",
+        tips: "全城八折，一路热送"
+      }
+    ],
+    address: "江苏省南京市江宁区竹山路D-1号",
+    average_cost: "¥24/人",
+    delivery_mode: {
+      color: "57A9FF",
+      id: 1,
+      is_solid: true,
+      text: "蜂鸟专送"
+    },
+    description: "",
+    distance: 1811,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 20,
+    id: 1102363,
+    image_path: "456b97e010528650d1828efd31a9e2e1jpeg",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.950275,
+    longitude: 118.844505,
+    max_applied_quantity_per_order: -1,
+    name: "潘老板炸鸡（江宁万达店）",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "10:00/21:30"
+    ],
+    order_lead_time: 32,
+    phone: "17749520337",
+    piecewise_agent_fee: {
+      description: "购物车满85免配送费，20至85付4元，不满20付8元",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 8,
+          price: 0
+        },
+        {
+          fee: 4,
+          price: 20
+        },
+        {
+          fee: 0,
+          price: 85
+        }
+      ],
+      tips: "配送费约¥4"
+    },
+    promotion_info: "",
+    rating: 4.9,
+    rating_count: 97,
+    recent_order_num: 361,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [
+      {
+        description: "已加入“外卖保”计划，食品安全有保障",
+        icon_color: "999999",
+        icon_name: "保",
+        id: 7,
+        name: "外卖保"
+      },
+      {
+        description: "准时必达，超时秒赔",
+        icon_color: "57A9FF",
+        icon_name: "准",
+        id: 9,
+        name: "准时达"
+      }
+    ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 20495738,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"100": {"1": 45, "0": 0}, "50": {"1": 24, "0": 0}, "20": {"1": 12, "0": 0}}",
+        description: "满20减12，满50减24，满100减45",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 22954765,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满20减12，满50减24，满100减45",
+        type: 102
+      },
+      {
+        description: "折扣",
+        icon_color: "f07373",
+        icon_name: "特",
+        id: 22952735,
+        name: "折扣",
+        tips: "折扣"
+      }
+    ],
+    address: "南京市江宁区高新园天元东路388号义乌小商品城B区2幢234",
+    average_cost: "¥16/人",
+    description: "",
+    distance: 3267,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 30,
+    id: 1805495,
+    image_path: "71b95c372885af10dcd947ba44cd4b41jpeg",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.936849,
+    longitude: 118.875585,
+    max_applied_quantity_per_order: -1,
+    name: "黄记川香鱼米饭鱿鱼拌饭",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "08:00/23:30"
+    ],
+    order_lead_time: 48,
+    phone: "15151865659",
+    piecewise_agent_fee: {
+      description: "配送费¥4",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 4,
+          price: 30
+        }
+      ],
+      tips: "配送费¥4"
+    },
+    promotion_info: "",
+    rating: 4.5,
+    rating_count: 60,
+    recent_order_num: 411,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [ ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 22657025,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"50": {"1": 5, "0": 0}, "100": {"1": 10, "0": 0}}",
+        description: "满50减5，满100减10",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 23354202,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满50减5，满100减10",
+        type: 102
+      }
+    ],
+    address: "南京市江宁区东山街道竹山路68号江宁万达广场（西区）7幢131室",
+    delivery_mode: {
+      color: "57A9FF",
+      id: 1,
+      is_solid: true,
+      text: "蜂鸟专送"
+    },
+    description: "",
+    distance: 1852,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 20,
+    id: 998408,
+    image_path: "56a7720272010a9b437b7f3e102ecb92jpeg",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.951093,
+    longitude: 118.842988,
+    max_applied_quantity_per_order: -1,
+    name: "笑大叔串串",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "11:30/21:30"
+    ],
+    order_lead_time: 36,
+    phone: "18952088342",
+    piecewise_agent_fee: {
+      description: "购物车满85免配送费，20至85付4元，不满20付8元",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 8,
+          price: 0
+        },
+        {
+          fee: 4,
+          price: 20
+        },
+        {
+          fee: 0,
+          price: 85
+        }
+      ],
+      tips: "配送费约¥4"
+    },
+    promotion_info: "笑大叔串吧是三个志同道合的吃货开的店，复古充满文艺味，不做最地道，只做最味道的成都串串香，所有底料、佐料均来自成都，只为成就吃货！",
+    rating: 4.6,
+    rating_count: 24,
+    recent_order_num: 55,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [
+      {
+        description: "已加入“外卖保”计划，食品安全有保障",
+        icon_color: "999999",
+        icon_name: "保",
+        id: 7,
+        name: "外卖保"
+      },
+      {
+        description: "准时必达，超时秒赔",
+        icon_color: "57A9FF",
+        icon_name: "准",
+        id: 9,
+        name: "准时达"
+      }
+    ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 23240886,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"35": {"1": 14, "0": 0}, "60": {"1": 22, "0": 0}, "22": {"1": 9, "0": 0}}",
+        description: "满22减9，满35减14，满60减22",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 23278395,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满22减9，满35减14，满60减22",
+        type: 102
+      }
+    ],
+    address: "南京市江宁区东山街道上元大街420号江宁万达广场（西区）1幢122",
+    delivery_mode: {
+      color: "57A9FF",
+      id: 1,
+      is_solid: true,
+      text: "蜂鸟专送"
+    },
+    description: "",
+    distance: 1427,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 20,
+    id: 151673845,
+    image_path: "6155685b03761d12ff508796088fa3e3jpeg",
+    is_new: true,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.95327,
+    longitude: 118.846743,
+    max_applied_quantity_per_order: -1,
+    name: "张福记骨头饭香扒饭",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "09:30/22:00"
+    ],
+    order_lead_time: 0,
+    phone: "17775082989",
+    piecewise_agent_fee: {
+      description: "购物车满85免配送费，20至85付4元，不满20付8元",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 8,
+          price: 0
+        },
+        {
+          fee: 4,
+          price: 20
+        },
+        {
+          fee: 0,
+          price: 85
+        }
+      ],
+      tips: "配送费约¥4"
+    },
+    promotion_info: "",
+    rating: 0,
+    rating_count: 0,
+    recent_order_num: 0,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [
+      {
+        description: "已加入“外卖保”计划，食品安全有保障",
+        icon_color: "999999",
+        icon_name: "保",
+        id: 7,
+        name: "外卖保"
+      },
+      {
+        description: "准时必达，超时秒赔",
+        icon_color: "57A9FF",
+        icon_name: "准",
+        id: 9,
+        name: "准时达"
+      }
+    ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 20364718,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"35": {"1": 12, "0": 0}, "85": {"1": 28, "0": 0}, "55": {"1": 19, "0": 0}}",
+        description: "满35减12，满55减19，满85减28",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 21591091,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满35减12，满55减19，满85减28",
+        type: 102
+      }
+    ],
+    address: "江苏省南京市江宁区东山街道天印大道832号",
+    delivery_mode: {
+      color: "57A9FF",
+      id: 1,
+      is_solid: true,
+      text: "蜂鸟专送"
+    },
+    description: "",
+    distance: 743,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 20,
+    id: 1060577,
+    image_path: "3e9b0d77ee08121f0b24a2c6e7221938jpeg",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.955508,
+    longitude: 118.859395,
+    max_applied_quantity_per_order: -1,
+    name: "苏北菜馆",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "10:00/21:00"
+    ],
+    order_lead_time: 30,
+    phone: "17712088836 13815437789",
+    piecewise_agent_fee: {
+      description: "购物车满85免配送费，20至85付4元，不满20付8元",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 8,
+          price: 0
+        },
+        {
+          fee: 4,
+          price: 20
+        },
+        {
+          fee: 0,
+          price: 85
+        }
+      ],
+      tips: "配送费约¥4"
+    },
+    promotion_info: "",
+    rating: 4.4,
+    rating_count: 23,
+    recent_order_num: 79,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [
+      {
+        description: "已加入“外卖保”计划，食品安全有保障",
+        icon_color: "999999",
+        icon_name: "保",
+        id: 7,
+        name: "外卖保"
+      },
+      {
+        description: "准时必达，超时秒赔",
+        icon_color: "57A9FF",
+        icon_name: "准",
+        id: 9,
+        name: "准时达"
+      }
+    ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 20352754,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"40": {"1": 20, "0": 0}, "22": {"1": 9, "0": 0}, "30": {"1": 15, "0": 0}}",
+        description: "满22减9，满30减15，满40减20",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 22418498,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满22减9，满30减15，满40减20",
+        type: 102
+      },
+      {
+        description: "超值双人餐周末半价第３期",
+        icon_color: "f07373",
+        icon_name: "折",
+        id: 22923649,
+        name: "超值双人餐周末半价第３期",
+        tips: "超值双人餐周末半价第３期"
+      },
+      {
+        description: "五折特惠",
+        icon_color: "f07373",
+        icon_name: "折",
+        id: 20218999,
+        name: "五折特惠",
+        tips: "五折特惠"
+      }
+    ],
+    address: "江苏省南京市江宁区上元大街763号",
+    average_cost: "¥15/人",
+    delivery_mode: {
+      color: "57A9FF",
+      id: 1,
+      is_solid: true,
+      text: "蜂鸟专送"
+    },
+    description: "南京陈华勇餐饮管理有限公司总部坐落于六朝古都南京，是一家在东北具有15年品牌历史的麻辣烫企业。公司董事长陈华勇先生，走遍全国20多个省市自治区，寻访各地特色调味料，潜心研究多年，终于研发出以奶汤+中药底料为特色的麻辣烫汤底，一改南方地区麻辣烫以麻、辣为基础的口味。",
+    distance: 593,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 20,
+    id: 993400,
+    image_path: "38bb2f1a28172de98da13fccfe5d26b8jpeg",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.9571292972023,
+    longitude: 118.855330012205,
+    max_applied_quantity_per_order: -1,
+    name: "陈华勇麻辣烫上元大街店",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "09:30/01:00"
+    ],
+    order_lead_time: 28,
+    phone: "18051983509",
+    piecewise_agent_fee: {
+      description: "购物车满85免配送费，20至85付4元，不满20付8元",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 8,
+          price: 0
+        },
+        {
+          fee: 4,
+          price: 20
+        },
+        {
+          fee: 0,
+          price: 85
+        }
+      ],
+      tips: "配送费约¥4"
+    },
+    promotion_info: "1.各位亲，咱家小店属于连锁店，荤素统一价18元一斤称重，外卖我们会按照常规亮给，有什么特殊要求可以备注告诉我们哟。 2.雨天请大家尽量提前一点下单，下单后请耐心等待，时间过长可与我们商家联系尽量不要催单，其实我们比你们更着急送出餐品。",
+    rating: 4.4,
+    rating_count: 273,
+    recent_order_num: 663,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [
+      {
+        description: "已加入“外卖保”计划，食品安全有保障",
+        icon_color: "999999",
+        icon_name: "保",
+        id: 7,
+        name: "外卖保"
+      },
+      {
+        description: "准时必达，超时秒赔",
+        icon_color: "57A9FF",
+        icon_name: "准",
+        id: 9,
+        name: "准时达"
+      }
+    ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 20438357,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"80": {"1": 40, "0": 0}, "50": {"1": 27, "0": 0}, "30": {"1": 19, "0": 0}}",
+        description: "满30减19，满50减27，满80减40",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 22835315,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满30减19，满50减27，满80减40",
+        type: 102
+      }
+    ],
+    address: "南京市江宁区东山街道芙阁路2幢105室",
+    average_cost: "¥25/人",
+    delivery_mode: {
+      color: "57A9FF",
+      id: 1,
+      is_solid: true,
+      text: "蜂鸟专送"
+    },
+    description: "",
+    distance: 1497,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 20,
+    id: 1396863,
+    image_path: "be0ad8285999773b5be4b0f889ed7ffajpeg",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.957112,
+    longitude: 118.843013,
+    max_applied_quantity_per_order: -1,
+    name: "广志菜馆",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "09:30/22:00"
+    ],
+    order_lead_time: 31,
+    phone: "13805193689",
+    piecewise_agent_fee: {
+      description: "购物车满85免配送费，20至85付4元，不满20付8元",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 8,
+          price: 0
+        },
+        {
+          fee: 4,
+          price: 20
+        },
+        {
+          fee: 0,
+          price: 85
+        }
+      ],
+      tips: "配送费约¥4"
+    },
+    promotion_info: "",
+    rating: 4.4,
+    rating_count: 41,
+    recent_order_num: 273,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [
+      {
+        description: "已加入“外卖保”计划，食品安全有保障",
+        icon_color: "999999",
+        icon_name: "保",
+        id: 7,
+        name: "外卖保"
+      },
+      {
+        description: "准时必达，超时秒赔",
+        icon_color: "57A9FF",
+        icon_name: "准",
+        id: 9,
+        name: "准时达"
+      }
+    ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 22657025,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"25": {"1": 5, "0": 0}, "50": {"1": 20, "0": 0}, "35": {"1": 10, "0": 0}}",
+        description: "满25减5，满35减10，满50减20",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 23354945,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满25减5，满35减10，满50减20",
+        type: 102
+      }
+    ],
+    address: "南京市江宁区东山街道竹山路68号江宁万达广场（西区）3幢102-103室",
+    delivery_mode: {
+      color: "57A9FF",
+      id: 1,
+      is_solid: true,
+      text: "蜂鸟专送"
+    },
+    description: "",
+    distance: 1816,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 20,
+    id: 1918918,
+    image_path: "c832afbbac2fa1af291fe9485fdb8c48png",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.952014,
+    longitude: 118.84259,
+    max_applied_quantity_per_order: -1,
+    name: "老福春苏州汤包馆",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "09:00/20:00"
+    ],
+    order_lead_time: 30,
+    phone: "13151521818",
+    piecewise_agent_fee: {
+      description: "购物车满85免配送费，20至85付4元，不满20付8元",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 8,
+          price: 0
+        },
+        {
+          fee: 4,
+          price: 20
+        },
+        {
+          fee: 0,
+          price: 85
+        }
+      ],
+      tips: "配送费约¥4"
+    },
+    promotion_info: "",
+    rating: 4.8,
+    rating_count: 14,
+    recent_order_num: 58,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [
+      {
+        description: "已加入“外卖保”计划，食品安全有保障",
+        icon_color: "999999",
+        icon_name: "保",
+        id: 7,
+        name: "外卖保"
+      },
+      {
+        description: "准时必达，超时秒赔",
+        icon_color: "57A9FF",
+        icon_name: "准",
+        id: 9,
+        name: "准时达"
+      }
+    ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 20690027,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"75": {"1": 20, "0": 0}, "100": {"1": 30, "0": 0}, "55": {"1": 10, "0": 0}}",
+        description: "满55减10，满75减20，满100减30",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 22918187,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满55减10，满75减20，满100减30",
+        type: 102
+      }
+    ],
+    address: "南京市江宁区东山街道竹山路68号万达广场4018室",
+    delivery_mode: {
+      color: "57A9FF",
+      id: 1,
+      is_solid: true,
+      text: "蜂鸟专送"
+    },
+    description: "欢迎光临",
+    distance: 1777,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 20,
+    id: 361576,
+    image_path: "11820c155bdde15567953ab31c5630f6png",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.9513553209502,
+    longitude: 118.843775546271,
+    max_applied_quantity_per_order: -1,
+    name: "天山明珠新疆餐饮(江宁万达店)",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "10:00/20:50"
+    ],
+    order_lead_time: 40,
+    phone: "025-58990707",
+    piecewise_agent_fee: {
+      description: "购物车满85免配送费，20至85付4元，不满20付8元",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 8,
+          price: 0
+        },
+        {
+          fee: 4,
+          price: 20
+        },
+        {
+          fee: 0,
+          price: 85
+        }
+      ],
+      tips: "配送费约¥4"
+    },
+    promotion_info: "",
+    rating: 4.5,
+    rating_count: 11,
+    recent_order_num: 61,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [
+      {
+        description: "已加入“外卖保”计划，食品安全有保障",
+        icon_color: "999999",
+        icon_name: "保",
+        id: 7,
+        name: "外卖保"
+      },
+      {
+        description: "准时必达，超时秒赔",
+        icon_color: "57A9FF",
+        icon_name: "准",
+        id: 9,
+        name: "准时达"
+      }
+    ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 22657025,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"20": {"1": 10, "0": 0}, "70": {"1": 30, "0": 0}, "30": {"1": 15, "0": 0}}",
+        description: "满20减10，满30减15，满70减30",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 23354031,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满20减10，满30减15，满70减30",
+        type: 102
+      },
+      {
+        description: "超值双人餐周末半价第３期",
+        icon_color: "f07373",
+        icon_name: "折",
+        id: 22923649,
+        name: "超值双人餐周末半价第３期",
+        tips: "超值双人餐周末半价第３期"
+      }
+    ],
+    address: "南京市江宁区东山街道竹山路68号江宁万达广场3幢127室",
+    average_cost: "¥26/人",
+    delivery_mode: {
+      color: "57A9FF",
+      id: 1,
+      is_solid: true,
+      text: "蜂鸟专送"
+    },
+    description: "",
+    distance: 1840,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 20,
+    id: 1529034,
+    image_path: "8773286411578f194ffee05152d3611bjpeg",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.952123,
+    longitude: 118.842167,
+    max_applied_quantity_per_order: -1,
+    name: "谷山日式料理",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "11:00/14:00",
+      "17:00/21:00"
+    ],
+    order_lead_time: 34,
+    phone: "52102830",
+    piecewise_agent_fee: {
+      description: "购物车满85免配送费，20至85付4元，不满20付8元",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 8,
+          price: 0
+        },
+        {
+          fee: 4,
+          price: 20
+        },
+        {
+          fee: 0,
+          price: 85
+        }
+      ],
+      tips: "配送费约¥4"
+    },
+    promotion_info: "本店正式营业，祝大家新年快乐。",
+    rating: 4.2,
+    rating_count: 16,
+    recent_order_num: 93,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [
+      {
+        description: "已加入“外卖保”计划，食品安全有保障",
+        icon_color: "999999",
+        icon_name: "保",
+        id: 7,
+        name: "外卖保"
+      },
+      {
+        description: "准时必达，超时秒赔",
+        icon_color: "57A9FF",
+        icon_name: "准",
+        id: 9,
+        name: "准时达"
+      }
+    ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 20473996,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"100": {"1": 50, "0": 0}, "10": {"1": 8, "0": 0}, "20": {"1": 13, "0": 0}, "70": {"1": 38, "0": 0}, "30": {"1": 20, "0": 0}}",
+        description: "满10减8，满20减13，满30减20，满70减38，满100减50",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 21922558,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满10减8，满20减13，满30减20，满70减38，满100减50",
+        type: 102
+      },
+      {
+        description: "特价4.5折",
+        icon_color: "f07373",
+        icon_name: "折",
+        id: 20988779,
+        name: "特价4.5折",
+        tips: "特价4.5折"
+      }
+    ],
+    address: "南京市江宁区高新园天元东路388号义乌小商品城单身公寓2幢114号",
+    average_cost: "¥13/人",
+    description: "",
+    distance: 3232,
+    float_delivery_fee: 3,
+    float_minimum_order_amount: 58,
+    id: 1528601,
+    image_path: "c7f2575839815e8f291c2fa8f4ace5c2jpeg",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.939348,
+    longitude: 118.879178,
+    max_applied_quantity_per_order: -1,
+    name: "开饭了",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "09:00/21:30"
+    ],
+    order_lead_time: 39,
+    phone: "15601585548",
+    piecewise_agent_fee: {
+      description: "配送费¥3",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 3,
+          price: 58
+        }
+      ],
+      tips: "配送费¥3"
+    },
+    promotion_info: "本店二十四小时开发票不分节假日免税金",
+    rating: 4.7,
+    rating_count: 34,
+    recent_order_num: 434,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [
+      {
+        description: "该商家支持开发票，开票订单金额100.0元起，请在下单时填写好发票抬头",
+        icon_color: "999999",
+        icon_name: "票",
+        id: 4,
+        name: "开发票"
+      }
+    ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 22657025,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"80": {"1": 30, "0": 0}, "25": {"1": 10, "0": 0}, "50": {"1": 20, "0": 0}}",
+        description: "满25减10，满50减20，满80减30",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 23354847,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满25减10，满50减20，满80减30",
+        type: 102
+      },
+      {
+        description: "超值双人餐周末半价第３期",
+        icon_color: "f07373",
+        icon_name: "折",
+        id: 22923649,
+        name: "超值双人餐周末半价第３期",
+        tips: "超值双人餐周末半价第３期"
+      },
+      {
+        description: "全城半价，一路热送",
+        icon_color: "f07373",
+        icon_name: "折",
+        id: 19562658,
+        name: "全城半价，一路热送",
+        tips: "全城半价，一路热送"
+      }
+    ],
+    address: "南京市江宁区万达广场1号美食城2楼",
+    average_cost: "¥13/人",
+    delivery_mode: {
+      color: "57A9FF",
+      id: 1,
+      is_solid: true,
+      text: "蜂鸟专送"
+    },
+    description: "",
+    distance: 1758,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 20,
+    id: 1532572,
+    image_path: "9c6c69176fde1cc74046da2b3a1bc401png",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.951959,
+    longitude: 118.843433,
+    max_applied_quantity_per_order: -1,
+    name: "溜溜酸汤锅（江宁万达店）",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "10:00/21:00"
+    ],
+    order_lead_time: 33,
+    phone: "13770344912",
+    piecewise_agent_fee: {
+      description: "购物车满85免配送费，20至85付4元，不满20付8元",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 8,
+          price: 0
+        },
+        {
+          fee: 4,
+          price: 20
+        },
+        {
+          fee: 0,
+          price: 85
+        }
+      ],
+      tips: "配送费约¥4"
+    },
+    promotion_info: "",
+    rating: 4.8,
+    rating_count: 80,
+    recent_order_num: 496,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [
+      {
+        description: "已加入“外卖保”计划，食品安全有保障",
+        icon_color: "999999",
+        icon_name: "保",
+        id: 7,
+        name: "外卖保"
+      },
+      {
+        description: "准时必达，超时秒赔",
+        icon_color: "57A9FF",
+        icon_name: "准",
+        id: 9,
+        name: "准时达"
+      }
+    ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 20324921,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"50": {"1": 12, "0": 0}, "21": {"1": 6, "0": 0}, "30": {"1": 9, "0": 0}, "15": {"1": 4, "0": 0}}",
+        description: "满15减4，满21减6，满30减9，满50减12",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 22954206,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满15减4，满21减6，满30减9，满50减12",
+        type: 102
+      }
+    ],
+    address: "义乌商品城D区",
+    average_cost: "¥15/人",
+    description: "年轻创业，安全卫生，请多支持。",
+    distance: 3356,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 40,
+    id: 801174,
+    image_path: "3d6888ca367b609fc96ab0bdf4a58f7cjpeg",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.937742,
+    longitude: 118.878867,
+    max_applied_quantity_per_order: -1,
+    name: "一盘水饺",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "08:00/23:40"
+    ],
+    order_lead_time: 39,
+    phone: "025-52168421",
+    piecewise_agent_fee: {
+      description: "配送费¥4",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 4,
+          price: 40
+        }
+      ],
+      tips: "配送费¥4"
+    },
+    promotion_info: "勿忘初心，方得始终！专注于你，只为更好！",
+    rating: 4.6,
+    rating_count: 309,
+    recent_order_num: 1552,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [ ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 22657025,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"25": {"1": 17, "0": 0}, "35": {"1": 24, "0": 0}, "45": {"1": 31, "0": 0}}",
+        description: "满25减17，满35减24，满45减31",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 22634895,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满25减17，满35减24，满45减31",
+        type: 102
+      },
+      {
+        description: "满20.0元赠送饮料1份",
+        icon_color: "3cc791",
+        icon_name: "赠",
+        id: 22563115,
+        name: "满赠优惠",
+        tips: "满20.0元赠送饮料1份"
+      }
+    ],
+    address: "南京市江宁区东山街道竹山路68号江宁万达广场（西区）7幢108室",
+    delivery_mode: {
+      color: "57A9FF",
+      id: 1,
+      is_solid: true,
+      text: "蜂鸟专送"
+    },
+    description: "",
+    distance: 1770,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 20,
+    id: 150843343,
+    image_path: "d6d24cce6db1b4478ffbcab24752703bjpeg",
+    is_new: true,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.951403,
+    longitude: 118.843819,
+    max_applied_quantity_per_order: -1,
+    name: "魏记烤肉饭",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "10:00/22:00"
+    ],
+    order_lead_time: 31,
+    phone: "18021399960",
+    piecewise_agent_fee: {
+      description: "购物车满85免配送费，20至85付4元，不满20付8元",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 8,
+          price: 0
+        },
+        {
+          fee: 4,
+          price: 20
+        },
+        {
+          fee: 0,
+          price: 85
+        }
+      ],
+      tips: "配送费约¥4"
+    },
+    promotion_info: "",
+    rating: 4.7,
+    rating_count: 14,
+    recent_order_num: 68,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [
+      {
+        description: "已加入“外卖保”计划，食品安全有保障",
+        icon_color: "999999",
+        icon_name: "保",
+        id: 7,
+        name: "外卖保"
+      },
+      {
+        description: "准时必达，超时秒赔",
+        icon_color: "57A9FF",
+        icon_name: "准",
+        id: 9,
+        name: "准时达"
+      }
+    ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 20477749,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"25": {"1": 12, "0": 0}, "50": {"1": 20, "0": 0}, "35": {"1": 14, "0": 0}}",
+        description: "满25减12，满35减14，满50减20",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 22211433,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满25减12，满35减14，满50减20",
+        type: 102
+      }
+    ],
+    address: "南京市江宁区东山街道润发路9号百顺发超市内",
+    average_cost: "¥18/人",
+    description: "本店招牌：鸡排，汉堡，炸鸡，小吃，奶茶果汁",
+    distance: 4034,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 45,
+    id: 1539496,
+    image_path: "e5c263ec21bdf583866934ebaaa7eb8epng",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.995886,
+    longitude: 118.873233,
+    max_applied_quantity_per_order: -1,
+    name: "悠可蜜儿",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "08:30/21:30"
+    ],
+    order_lead_time: 26,
+    phone: "13770529767",
+    piecewise_agent_fee: {
+      description: "配送费¥4",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 4,
+          price: 45
+        }
+      ],
+      tips: "配送费¥4"
+    },
+    promotion_info: "亲们，本店饭点与周末时间段外卖较多，请提前下单，我们会以最快的速度把你的餐送到，品质第一，邀请你监督，欢迎光临电话：17301599796,13770529767",
+    rating: 4.6,
+    rating_count: 89,
+    recent_order_num: 231,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [ ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 20496605,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"50": {"1": 22, "0": 0}, "35": {"1": 14, "0": 0}, "20": {"1": 7, "0": 0}}",
+        description: "满20减7，满35减14，满50减22",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 22470993,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满20减7，满35减14，满50减22",
+        type: 102
+      },
+      {
+        description: "套餐4.5折优惠",
+        icon_color: "f07373",
+        icon_name: "特",
+        id: 22059022,
+        name: "套餐4.5折优惠",
+        tips: "套餐4.5折优惠"
+      },
+      {
+        description: "套餐5.5折优惠",
+        icon_color: "f07373",
+        icon_name: "特",
+        id: 22058945,
+        name: "套餐5.5折优惠",
+        tips: "套餐5.5折优惠"
+      },
+      {
+        description: "满10.0元赠送饮料1份",
+        icon_color: "3cc791",
+        icon_name: "赠",
+        id: 21901163,
+        name: "满赠优惠",
+        tips: "满10.0元赠送饮料1份"
+      }
+    ],
+    address: "南京市江宁区高新园荣华苑变电所旁门面房东平8号",
+    average_cost: "¥22/人",
+    description: "",
+    distance: 2610,
+    float_delivery_fee: 7,
+    float_minimum_order_amount: 60,
+    id: 1807976,
+    image_path: "65b05e292adde118efb3f34167a56c93png",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.943724,
+    longitude: 118.875066,
+    max_applied_quantity_per_order: -1,
+    name: "速食坊麻辣香锅",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "08:30/22:00"
+    ],
+    order_lead_time: 30,
+    phone: "17372279139",
+    piecewise_agent_fee: {
+      description: "配送费¥7",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 7,
+          price: 60
+        }
+      ],
+      tips: "配送费¥7"
+    },
+    promotion_info: "",
+    rating: 4.7,
+    rating_count: 64,
+    recent_order_num: 197,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [ ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 22657025,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"60": {"1": 3, "0": 0}, "35": {"1": 2, "0": 0}, "20": {"1": 1, "0": 0}}",
+        description: "满20减1，满35减2，满60减3",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 19972763,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满20减1，满35减2，满60减3",
+        type: 102
+      }
+    ],
+    address: "南京市江宁区东山街道新医路15-3号门面房",
+    delivery_mode: {
+      color: "57A9FF",
+      id: 1,
+      is_solid: true,
+      text: "蜂鸟专送"
+    },
+    description: "",
+    distance: 1295,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 20,
+    id: 1890469,
+    image_path: "6c681d681bfb4a1deefca91fc63fac9fpng",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.9532,
+    longitude: 118.848853,
+    max_applied_quantity_per_order: -1,
+    name: "惠美饺子（新医路店）",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "09:00/20:00"
+    ],
+    order_lead_time: 30,
+    phone: "15852930003",
+    piecewise_agent_fee: {
+      description: "购物车满85免配送费，20至85付4元，不满20付8元",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 8,
+          price: 0
+        },
+        {
+          fee: 4,
+          price: 20
+        },
+        {
+          fee: 0,
+          price: 85
+        }
+      ],
+      tips: "配送费约¥4"
+    },
+    promotion_info: "",
+    rating: 5,
+    rating_count: 4,
+    recent_order_num: 45,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [
+      {
+        description: "已加入“外卖保”计划，食品安全有保障",
+        icon_color: "999999",
+        icon_name: "保",
+        id: 7,
+        name: "外卖保"
+      },
+      {
+        description: "准时必达，超时秒赔",
+        icon_color: "57A9FF",
+        icon_name: "准",
+        id: 9,
+        name: "准时达"
+      }
+    ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 22657025,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"40": {"1": 10, "0": 0}, "36": {"1": 8, "0": 0}, "30": {"1": 5, "0": 0}}",
+        description: "满30减5，满36减8，满40减10",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 22966082,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满30减5，满36减8，满40减10",
+        type: 102
+      }
+    ],
+    address: "南京市江宁区东山街道竹山路68号江宁万达广场室内步行街四层4006b号",
+    delivery_mode: {
+      color: "57A9FF",
+      id: 1,
+      is_solid: true,
+      text: "蜂鸟专送"
+    },
+    description: "",
+    distance: 1727,
+    float_delivery_fee: 4,
+    float_minimum_order_amount: 20,
+    id: 2123496,
+    image_path: "7a6e7811dda96d035e9c92a7f10fb2c6png",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.952067,
+    longitude: 118.843752,
+    max_applied_quantity_per_order: -1,
+    name: "旗鼓村米线（江宁万达店）",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "10:00/21:00"
+    ],
+    order_lead_time: 32,
+    phone: "18963099315",
+    piecewise_agent_fee: {
+      description: "购物车满85免配送费，20至85付4元，不满20付8元",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 8,
+          price: 0
+        },
+        {
+          fee: 4,
+          price: 20
+        },
+        {
+          fee: 0,
+          price: 85
+        }
+      ],
+      tips: "配送费约¥4"
+    },
+    promotion_info: "",
+    rating: 3.9,
+    rating_count: 1,
+    recent_order_num: 45,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [
+      {
+        description: "已加入“外卖保”计划，食品安全有保障",
+        icon_color: "999999",
+        icon_name: "保",
+        id: 7,
+        name: "外卖保"
+      },
+      {
+        description: "准时必达，超时秒赔",
+        icon_color: "57A9FF",
+        icon_name: "准",
+        id: 9,
+        name: "准时达"
+      }
+    ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 20632575,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"40": {"1": 8, "0": 0}, "25": {"1": 3, "0": 0}, "35": {"1": 5, "0": 0}}",
+        description: "满25减3，满35减5，满40减8",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 21404559,
+        is_exclusive_with_food_activity: false,
+        name: "满减优惠",
+        tips: "满25减3，满35减5，满40减8",
+        type: 102
+      },
+      {
+        description: "满40.0元赠送随机两元产品1份",
+        icon_color: "3cc791",
+        icon_name: "赠",
+        id: 23385709,
+        name: "满赠优惠",
+        tips: "满40.0元赠送随机两元产品1份"
+      },
+      {
+        description: "每日特价",
+        icon_color: "f1884f",
+        icon_name: "特",
+        id: 23187666,
+        name: "每日特价",
+        tips: "每日特价"
+      }
+    ],
+    address: "南京市江宁区东山街道明月路188号明月综合楼农贸市场内负一层交易区01-1号",
+    average_cost: "¥23/人",
+    description: "",
+    distance: 2396,
+    float_delivery_fee: 3,
+    float_minimum_order_amount: 20,
+    id: 2175645,
+    image_path: "2d02da2e5ebb24d269d7a2722ea8a03cjpeg",
+    is_new: false,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.948577,
+    longitude: 118.83796,
+    max_applied_quantity_per_order: -1,
+    name: "放心豆浆油条",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "05:00/20:00"
+    ],
+    order_lead_time: 40,
+    phone: "18805144758",
+    piecewise_agent_fee: {
+      description: "配送费¥3",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 3,
+          price: 20
+        }
+      ],
+      tips: "配送费¥3"
+    },
+    promotion_info: "小店营业到18：30。18:50可预订第二天定单，",
+    rating: 4.6,
+    rating_count: 234,
+    recent_order_num: 660,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [ ]
+  },
+  {
+    activities: [
+      {
+        description: "新用户下单立减20.0元",
+        icon_color: "70bc46",
+        icon_name: "新",
+        id: 22694376,
+        name: "新用户立减(不与其他活动共享)",
+        tips: "新用户下单立减20.0元"
+      },
+      {
+        attribute: "{"35": {"1": 8, "0": 0}, "20": {"1": 6, "0": 0}, "45": {"1": 10, "0": 0}}",
+        description: "满20减6，满35减8，满45减10",
+        icon_color: "f07373",
+        icon_name: "减",
+        id: 23186890,
+        is_exclusive_with_food_activity: true,
+        name: "满减优惠",
+        tips: "满20减6，满35减8，满45减10",
+        type: 102
+      }
+    ],
+    address: "高新园上元南路由北向南第四间门面房",
+    description: "",
+    distance: 1726,
+    float_delivery_fee: 5,
+    float_minimum_order_amount: 20,
+    id: 150885994,
+    image_path: "ea3e88df79bdcd61f099cd224735806bjpeg",
+    is_new: true,
+    is_premium: false,
+    is_stock_empty: 0,
+    latitude: 31.948203,
+    longitude: 118.866051,
+    max_applied_quantity_per_order: -1,
+    name: "绝摆炒饭",
+    next_business_time: "",
+    only_use_poi: false,
+    opening_hours: [
+      "10:00/03:00"
+    ],
+    order_lead_time: 20,
+    phone: "13770960061",
+    piecewise_agent_fee: {
+      description: "配送费¥5",
+      extra_fee: 0,
+      is_extra: false,
+      rules: [
+        {
+          fee: 5,
+          price: 20
+        }
+      ],
+      tips: "配送费¥5"
+    },
+    promotion_info: "",
+    rating: 5,
+    rating_count: 6,
+    recent_order_num: 47,
+    regular_customer_count: 0,
+    status: 1,
+    supports: [ ]
+  }
+]
